@@ -1,0 +1,19 @@
+{
+  "name": "gem-puzzle",
+  "version": "1.0.0",
+  "description": "Private repository for @klim-nk01",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./gem-puzzle/js",
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
